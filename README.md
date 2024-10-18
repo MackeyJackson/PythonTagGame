@@ -1,2 +1,2 @@
 # PythonTagGame
-A 2 Player Tag game that utelises the Pyagme module
+A 2 Player Tag game I made while learning pygame that utelises the Pyagme module
